@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  XcodeDemo
 //
-//  Created by Aponte, Raynaldo E on 9/14/21.
+//  Created by Aponte, Reynaldo E on 9/14/21.
 //
 
 import UIKit
